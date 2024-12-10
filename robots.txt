@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /apaneli.php
+Disallow: /isformu.php
+Disallow: /dbFolder/
+Disallow: /basvuruformlari/
